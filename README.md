@@ -7,4 +7,5 @@ I love digging into messy datasets, finding hidden patterns, and turning numbers
 📊 Projects I’ve built: **HR analytics dashboard**, **Netflix Python**, and **sales dashboards**.  
 📈 Always learning, always visualizing — one dataset at a time!  
 
-🌍 Let’s connect: [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/alia-karim-1b30151b3/)) | ✉️ aliakarim04@gmail.com  
+🌍  Let’s connect: [LinkedIn]((https://www.linkedin.com/in/alia-karim-1b30151b3/)) | ✉️ aliakarim04@gmail.com  
+
